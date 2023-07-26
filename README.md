@@ -14,7 +14,7 @@ Sou formada em Direito pela Universidade Federal do Rio Grande do Norte e advoga
 <h3>
 Conhecimentos de programação
 <h3>
-&rarr; Programo em Javascript e C# e utilizo bem o HTML e o CSS.
+&rarr; Programo em Javascript e C# e utilizo bem o HTML e o CSS. Programo bem na parte de front-end e back-end. Sei utilizar o NodeJS, bootstrap e typescript, bem como ferramentas como o axios e o express. Tenho conhecimentos de programação orientada a objetos e consigo desenvolver APIs.
 <section>
 <section>
 <h6>
