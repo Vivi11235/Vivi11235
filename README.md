@@ -5,7 +5,7 @@
 Prazer, sou Victoria Gabriela&#128522;
 <h2>
 <p>
-Sou formada em Direito pela Universidade Federal do Rio Grande do Norte, advogada e desenvolvedora fullstack em formação no curso Desenvolvedor Web Full Stack 14º edição, da Growdev. Também graduanda em Sistemas para Internet no Serviço Nacional de Aprendizagem Comercial - SENAC.
+Sou formada em Direito pela Universidade Federal do Rio Grande do Norte e advogada (atualmente em transição de carreira) e desenvolvedora fullstack em formação no curso Desenvolvedor Web Full Stack 14º edição, da Growdev. Também graduanda em Sistemas para Internet no Serviço Nacional de Aprendizagem Comercial - SENAC.
 <p>
   
 <a href="https://www.linkedin.com/in/vict%C3%B3ria-gabriela-ortiz-bastos-lemos-de-oliveira-268937bb/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a><a href="mailto:victoriagabriela48@gmail.com?CC=Hello" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://api.whatsapp.com/send?phone=5584994487887" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
